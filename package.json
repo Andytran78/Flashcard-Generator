@@ -1,0 +1,22 @@
+{
+  "name": "andy-tran",
+  "version": "1.0.0",
+  "description": "flashcard_generator",
+  "main": "Basic_Card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andytran78/Flashcard-Generator.git"
+  },
+  "author": "andy tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andytran78/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Andytran78/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
